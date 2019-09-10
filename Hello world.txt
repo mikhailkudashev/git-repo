@@ -1,5 +1,5 @@
-print ("Hello world 22!!!");
-print ("Hello");
-print ("Hello again");
-print ("Hello my dear friend");
-print ("Glad to see you");
+print ("Hello world 22!!!";)
+print ("Hello";)
+print ("Hello again";)
+print ("Hello my dear friend";)
+print ("Glad to see you";)
